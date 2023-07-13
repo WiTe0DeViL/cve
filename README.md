@@ -5,7 +5,7 @@
 | Title      | URL |  
 | ----------- | ----------- |  
 | CVE-2022-0001      | [/trickest/cve/blob/main/2022/CVE-2022-0001.md](https://github.com/trickest/cve/blob/main/2022/CVE-2022-0001.md) |  
-| CVE-2022-25297      | [/trickest/cve/blob/main/2022/CVE-2022-25297.md](https://github.com/trickest/cve/blob/main/2022/CVE-2022-25297.md) |  
+| CVE-2022-25297       | [/trickest/cve/blob/main/2022/CVE-2022-25297.md](https://github.com/trickest/cve/blob/main/2022/CVE-2022-25297.md) |  
 | CVE-2022-1388      | [/trickest/cve/blob/main/2022/CVE-2022-1388.md](https://github.com/trickest/cve/blob/main/2022/CVE-2022-1388.md) |  
 | CVE-2022-25451      | [/trickest/cve/blob/main/2022/CVE-2022-25451.md](https://github.com/trickest/cve/blob/main/2022/CVE-2022-25451.md) |  
 
